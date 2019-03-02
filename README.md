@@ -1,3 +1,3 @@
-# READM
+# README
 
 Tests of using git.
